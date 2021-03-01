@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "Antecessor e Sucessor.C": "cpp",
+        "Boas vindas.C": "cpp",
+        "Conversor Celsius para Fahrenheit.C": "cpp",
+        "Conversor de reais para dolares.C": "cpp",
+        "Metade de um Número.C": "cpp",
+        "Numero de acertos.C": "cpp",
+        "Quadrado de um numero.C": "cpp",
+        "Salario.C": "cpp",
+        "Soma de 3 numeros.C": "cpp",
+        "Troca de Valores.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
